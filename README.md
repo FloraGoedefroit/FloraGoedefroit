@@ -1,0 +1,9 @@
+- 👋 Hey there! I'm @FloraGoedefroit, a lawyer specializing in data protection and cybersecurity, also doubling as a Data Protection Officer.
+- 👀 My interests lie in the realms of Privacy, Cybersecurity, and AI, where law intersects with technology to safeguard data and promote ethical practices.
+- 🌱 Currently, I'm delving into the intricacies of data management, familiarizing myself with DORA/NIS2, and deciphering AI regulations in the EU.
+- 💞️ I'm eager to collaborate on bridging the gap between legal and technical realms, exploring how lawyers can seamlessly work with technical teams. I'm particularly interested in ensuring legal compliance is ingrained in technical guidelines and best practices, facilitating a culture of compliance by design and default.
+- 🤝 Let's join forces to establish robust frameworks that integrate legal requirements into technical implementations, fostering a synergy between legal expertise and technical innovation.
+- 🔍 Interested in exploring how law and technology intersect? Dive into my repositories to find resources, discussions, and projects aimed at promoting compliance and ethical practices in the digital landscape.
+- 🌐 Together, let's navigate the complexities of data protection, cybersecurity, and AI regulations, striving to build a safer and more ethical technological future.
+- 📫 Have questions, ideas, or simply want to connect? Feel free to drop me a message !
+- 🚀 I'm excited to collaborate and learn from fellow enthusiasts in the legal and tech communities!
